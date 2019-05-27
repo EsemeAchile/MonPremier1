@@ -1,0 +1,8 @@
+.w3-animate-zoom {
+    animation:animatezoom 0.9s
+}
+
+@keyframes animatezoom{
+    from{transform:scale(0)}
+    to{transform:scale(1)}
+}
